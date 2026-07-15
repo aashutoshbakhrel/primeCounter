@@ -22,7 +22,7 @@ The project demonstrates professional C project organization with separated sour
 ## Project Structure
 
 ```
-
+```markdown
 prime-counter/
 │
 ├── README.md
@@ -42,6 +42,7 @@ prime-counter/
 │
 └── docs/
 └── design.md
+```
 
 ````
 
