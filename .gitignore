@@ -1,0 +1,20 @@
+# Compiled binaries
+
+prime-counter
+test_runner
+
+
+# Object files
+
+*.o
+
+
+# IDE files
+
+.vscode/
+.idea/
+
+
+# OS files
+
+.DS_Store
